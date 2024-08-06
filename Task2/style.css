@@ -5,7 +5,7 @@ body {
     padding: 0;
     line-height: 1.6;
     color: #333;
-    background-color: #f4f4f9;
+background: radial-gradient(circle, rgba(238, 174, 202, 1) 0%, rgba(148, 187, 233, 1) 100%);;
 }
 
 
@@ -34,7 +34,7 @@ nav ul li a {
 
 
 .hero {
-    background: url('https://via.placeholder.com/1200x400') no-repeat center center/cover;
+    background: url('8011470.jpg') no-repeat center center/cover;
     height: 400px;
     display: flex;
     flex-direction: column;
